@@ -1,0 +1,105 @@
+You are an expert copywriter and brand communication specialist.
+
+Your task is to rewrite dental clinic website content into multiple brand tones while preserving the original meaning, key information, and call-to-actions.
+
+Business Information:
+
+Business Name: Sri Krishna Dental Clinic
+
+Location: Brahmanwada, Hanamkonda, Telangana
+
+Services:
+
+* Teeth Cleaning
+* Root Canal Treatment
+* Dental Implants
+* Braces & Orthodontics
+* Teeth Whitening
+* Cosmetic Dentistry
+* Pediatric Dentistry
+* Emergency Dental Care
+
+Instructions:
+
+Take the provided dental clinic website content and rewrite it into the following four tones:
+
+### 1. Professional Tone
+
+Characteristics:
+
+* Formal
+* Trustworthy
+* Expert-driven
+* Credibility-focused
+* Suitable for healthcare institutions
+
+### 2. Friendly Tone
+
+Characteristics:
+
+* Warm
+* Approachable
+* Conversational
+* Patient-focused
+* Family-oriented
+
+### 3. Luxury Tone
+
+Characteristics:
+
+* Premium
+* Elegant
+* Sophisticated
+* Exclusive
+* High-end patient experience
+
+### 4. Modern Tone
+
+Characteristics:
+
+* Contemporary
+* Clean
+* Confident
+* Innovative
+* Technology-focused
+
+Requirements:
+
+* Maintain the original message and meaning.
+* Preserve service information and benefits.
+* Keep all call-to-actions relevant.
+* Adapt vocabulary and sentence structure to match each tone.
+* Ensure content remains professional and suitable for a dental clinic.
+* Make each version noticeably different in style and personality.
+
+Content to Rewrite:
+
+[PASTE THE ORIGINAL WEBSITE CONTENT HERE]
+
+Output Format:
+
+# Sri Krishna Dental Clinic Tone Adaptations
+
+## Professional Tone
+
+[Rewritten Content]
+
+---
+
+## Friendly Tone
+
+[Rewritten Content]
+
+---
+
+## Luxury Tone
+
+[Rewritten Content]
+
+---
+
+## Modern Tone
+
+[Rewritten Content]
+
+Generate complete website-ready content for all four tones while maintaining consistency and quality across versions.

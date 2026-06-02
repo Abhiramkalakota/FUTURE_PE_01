@@ -1,0 +1,79 @@
+You are an expert website copywriter specializing in healthcare and dental clinics.
+
+Create a professional, trustworthy, and conversion-focused homepage copy for the following dental clinic:
+
+Business Name: Sri Krishna Dental Clinic
+
+Location: Brahmanwada, Hanamkonda, Telangana
+
+Target Audience:
+
+* Families
+* Students
+* Working professionals
+* Senior citizens
+
+Clinic Services:
+
+* Teeth Cleaning
+* Root Canal Treatment
+* Dental Implants
+* Braces & Orthodontics
+* Teeth Whitening
+* Cosmetic Dentistry
+* Pediatric Dentistry
+* Emergency Dental Care
+
+Unique Selling Points:
+
+* Experienced Dentists
+* Modern Equipment
+* Affordable Treatment Plans
+* Comfortable Environment
+* Personalized Care
+* Flexible Appointments
+
+Brand Tone:
+Professional, Caring, Trustworthy, and Friendly
+
+Generate the following homepage sections:
+
+1. Hero Section
+
+   * Main Headline
+   * Supporting Subheadline
+   * Primary CTA
+   * Secondary CTA
+
+2. About Us Section
+
+   * Clinic Introduction
+   * Mission Statement
+   * Trust-Building Content
+
+3. Why Choose Us Section
+
+   * Six compelling benefits
+
+4. Patient Testimonials Section
+
+   * Three realistic testimonials
+
+5. Appointment Call-To-Action Section
+
+   * Persuasive booking message
+   * CTA button text
+
+6. Contact Preview Section
+
+   * Short contact information block
+
+Requirements:
+
+* Use clear and patient-friendly language.
+* Focus on trust, comfort, and quality care.
+* Make the content website-ready.
+* Keep paragraphs concise and engaging.
+* Encourage appointment bookings.
+
+Output only the homepage copy in a clean website format.

@@ -1,0 +1,197 @@
+You are an expert dental marketing strategist, conversion copywriter, and patient engagement specialist.
+
+Your task is to create high-converting Call-To-Action (CTA) content for a dental clinic website.
+
+Business Information:
+
+Business Name: Sri Krishna Dental Clinic
+
+Location: Brahmanwada, Hanamkonda, Telangana
+
+Brand Tone:
+Professional, Caring, Trustworthy, Friendly, and Patient-Focused
+
+Target Audience:
+
+* Families
+* Students
+* Working Professionals
+* Senior Citizens
+
+Services:
+
+* Teeth Cleaning
+* Root Canal Treatment
+* Dental Implants
+* Braces & Orthodontics
+* Teeth Whitening
+* Cosmetic Dentistry
+* Pediatric Dentistry
+* Emergency Dental Care
+
+Unique Selling Points:
+
+* Experienced Dentists
+* Modern Dental Equipment
+* Affordable Treatment Plans
+* Personalized Patient Care
+* Comfortable Environment
+* Flexible Appointment Scheduling
+
+Instructions:
+
+Generate persuasive CTA content for the following scenarios:
+
+### 1. Homepage CTA
+
+Create:
+
+* Headline
+* Supporting Text
+* Primary CTA Button
+* Secondary CTA Button
+
+### 2. Appointment Booking CTA
+
+Create content encouraging patients to schedule an appointment.
+
+Include:
+
+* Attention-grabbing headline
+* Short persuasive paragraph
+* CTA button text
+
+### 3. Emergency Dental Care CTA
+
+Create urgent and reassuring content for patients needing immediate dental treatment.
+
+Include:
+
+* Headline
+* Supporting text
+* CTA button
+
+### 4. Cosmetic Dentistry CTA
+
+Create content encouraging visitors to improve their smile and confidence.
+
+Include:
+
+* Headline
+* Supporting text
+* CTA button
+
+### 5. Family Dental Care CTA
+
+Create content targeting families looking for reliable dental care.
+
+Include:
+
+* Headline
+* Supporting text
+* CTA button
+
+### 6. Teeth Whitening CTA
+
+Create promotional-style content encouraging visitors to book a whitening consultation.
+
+Include:
+
+* Headline
+* Supporting text
+* CTA button
+
+### 7. Final Website CTA
+
+Create a strong closing section for the website.
+
+Include:
+
+* Headline
+* Persuasive paragraph
+* CTA button
+
+Requirements:
+
+* Use patient-friendly language.
+* Create urgency without sounding aggressive.
+* Build trust and confidence.
+* Focus on benefits and patient comfort.
+* Encourage visitors to take action.
+* Keep CTAs concise and conversion-focused.
+
+Output Format:
+
+# Sri Krishna Dental Clinic CTA Collection
+
+## Homepage CTA
+
+### Headline
+
+### Supporting Text
+
+### Primary Button
+
+### Secondary Button
+
+---
+
+## Appointment Booking CTA
+
+### Headline
+
+### Supporting Text
+
+### Button
+
+---
+
+## Emergency Dental Care CTA
+
+### Headline
+
+### Supporting Text
+
+### Button
+
+---
+
+## Cosmetic Dentistry CTA
+
+### Headline
+
+### Supporting Text
+
+### Button
+
+---
+
+## Family Dental Care CTA
+
+### Headline
+
+### Supporting Text
+
+### Button
+
+---
+
+## Teeth Whitening CTA
+
+### Headline
+
+### Supporting Text
+
+### Button
+
+---
+
+## Final Website CTA
+
+### Headline
+
+### Supporting Text
+
+### Button
+
+Generate professional, persuasive, website-ready CTA content optimized for patient conversions and appointment bookings.
